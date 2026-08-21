@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "storagesp",
+  "version": "${version}",
+  "name": "StorageSP",
+  "description": "Клиентский мод: подсветка хранилищ (сундуки, бочки, шалкеры и др.) через стены с настраиваемым меню. Для использования на собственном сервере игрока.",
+  "authors": ["you"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/storagesp/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.storagesp.StorageSPClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "fabric-api": "*",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
+  }
+}

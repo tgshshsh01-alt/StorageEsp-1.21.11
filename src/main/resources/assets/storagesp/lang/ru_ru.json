@@ -1,0 +1,20 @@
+{
+  "key.storagesp.toggle": "StorageSP: Вкл/Выкл ESP",
+  "key.storagesp.menu": "StorageSP: Открыть меню",
+  "key.category.storagesp": "StorageSP",
+
+  "storagesp.screen.title": "Настройки StorageSP",
+  "storagesp.screen.master_toggle": "Показывать хранилища",
+  "storagesp.screen.render.boxes": "Обводка блоков (боксы)",
+  "storagesp.screen.render.lines": "Линии-указатели (трейсеры)",
+  "storagesp.screen.render.through_walls": "Сквозь стены",
+  "storagesp.screen.scan_radius": "Радиус сканирования: %s",
+  "storagesp.screen.category.containers": "Категория: Контейнеры",
+  "storagesp.screen.category.custom": "Свои блоки (config.json)",
+  "storagesp.screen.add_block": "Добавить ID блока",
+  "storagesp.screen.done": "Готово",
+  "storagesp.screen.reload_config": "Перезагрузить config.json",
+
+  "storagesp.toast.enabled": "StorageSP: включено",
+  "storagesp.toast.disabled": "StorageSP: выключено"
+}

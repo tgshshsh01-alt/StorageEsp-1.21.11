@@ -1,0 +1,20 @@
+{
+  "key.storagesp.toggle": "StorageSP: Toggle ESP",
+  "key.storagesp.menu": "StorageSP: Open Menu",
+  "key.category.storagesp": "StorageSP",
+
+  "storagesp.screen.title": "StorageSP Settings",
+  "storagesp.screen.master_toggle": "Show storages",
+  "storagesp.screen.render.boxes": "Block outlines (boxes)",
+  "storagesp.screen.render.lines": "Tracer lines",
+  "storagesp.screen.render.through_walls": "Through walls",
+  "storagesp.screen.scan_radius": "Scan radius: %s",
+  "storagesp.screen.category.containers": "Category: Containers",
+  "storagesp.screen.category.custom": "Custom blocks (config.json)",
+  "storagesp.screen.add_block": "Add block ID",
+  "storagesp.screen.done": "Done",
+  "storagesp.screen.reload_config": "Reload config.json",
+
+  "storagesp.toast.enabled": "StorageSP: enabled",
+  "storagesp.toast.disabled": "StorageSP: disabled"
+}
